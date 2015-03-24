@@ -1,4 +1,4 @@
-# List Of Languages on Erlang VM (BEAM)
+# List of Languages on Erlang VM (BEAM)
 
 Elixir [elixir language](http://elixir-lang.org/ "Elixir Language").
 
